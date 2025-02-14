@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "510fd2965496ffb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "122f4f7611a80b90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "067e23a381b65966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diskovoz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diskovoz"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e3d8c72e84dc14c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9841ebed935619f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/Nishpunk - Diskovoz radnici.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nishpunk - Diskovoz radnici"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "865c1df83ccaa99d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ed89d333f6c9e66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d031c652912f7546",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f90c6075648af362",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d67bfbe562eeb5c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.5
+  },
+  "right": {
+    "id": "5fbc358dc8be8800",
+    "type": "split",
+    "children": [
+      {
+        "id": "a949ca9154c893be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebf758bb8aee6d14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Assets/Nishpunk_flipped.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Nishpunk_flipped"
+            }
+          },
+          {
+            "id": "c6e452cc376efe0c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Assets/Nishpunk_flipped.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Nishpunk_flipped"
+            }
+          },
+          {
+            "id": "d6079437024b6081",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0e470ba35e49a601",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Assets/Nishpunk_flipped.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Nishpunk_flipped"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "floating": {
+    "id": "443bd235dfb0e995",
+    "type": "floating",
+    "children": [
+      {
+        "id": "74a747a756d2ea77",
+        "type": "window",
+        "children": [
+          {
+            "id": "773c2ab3b3306be2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b2bd98dd19f74ab5",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Assets/Nishpunk_flipped.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Nishpunk_flipped"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 583,
+        "y": 21,
+        "width": 824,
+        "height": 1000,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d031c652912f7546",
+  "lastOpenFiles": [
+    "Assets/Maps for inspiration/diskovoz image.png",
+    "General/Nishpunk - Diskovoz radnici.md",
+    "Diskovoz.md",
+    "Places/Places of Note/Mirno mesto u Plasidozu.md",
+    "Sessions",
+    "Places/Areas/Plasidoz.md",
+    "Places/Areas/Srcodoz.md",
+    "Places/Places of Note",
+    "Places/Areas/Hipidoz.md",
+    "Assets/Maps for inspiration/hipidoz image.png",
+    "Places/Areas/Mrtvodoz.md",
+    "Places/Areas/Otrovdoz.md",
+    "Places/Areas/Bivstvodoz.md",
+    "Assets/Nishpunk_flipped.png",
+    "Places/Areas/Plavi Krak.md",
+    "Places/Areas/Odlodoz.md",
+    "Assets/Maps for inspiration/odlodoz image.png",
+    "plavi krak image.md",
+    "NPCS/Zivko.md",
+    "Assets/Maps for inspiration/plavi krak image.png",
+    "Places/Areas/Pufdoz.md",
+    "NPCS",
+    "Assets/Maps for inspiration/pufdoz image.png",
+    "Places/Areas/Sutrodoz.md",
+    "Places/Areas/Zabavdoz.md",
+    "Combat and Encounters.md",
+    "Game Idea - Plot Reasons.md",
+    "Assets/Maps for inspiration/zabavdoz image.png",
+    "zabavdoz image.md",
+    "Assets/Maps for inspiration/Plasidoz_image.png",
+    "Assets/Maps for inspiration/Pasted image 20250213224353.png",
+    "Assets/Maps for inspiration",
+    "General/! GENERAL PLOT !.md",
+    "General",
+    "Player Characters/Martina.md",
+    "Player Characters/Petra.md",
+    "Assets/maps/CzepekuTrainStation.jpg",
+    "Assets/maps/CzepekuTrainStation.jpg.crdownload",
+    "Assets/maps/warforgedtrains.png",
+    "Assets/maps/StationPlatformsCzepeku.jpg.crdownload",
+    "Assets/maps/9b01923a9c1fed364901ca7a49ceab90.avif.crdownload",
+    "Assets/maps/9b01923a9c1fed364901ca7a49ceab90.jpg.crdownload",
+    "Assets/maps/71f6f8650af0b1ce5c02cfec4659494c.jpg.crdownload",
+    "Player Characters/Nina.md",
+    "Player Characters/Medox.md",
+    "Player Characters/Uros.md"
+  ]
+}

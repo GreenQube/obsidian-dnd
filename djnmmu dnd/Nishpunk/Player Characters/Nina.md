@@ -1,0 +1,2 @@
+# Story
+Ja sam vampirica koja je proterana od strane svog gospodara zato što nije mogao više da trpi moja sranja haha. Živim u Mrakogazu ili kako se već zove, i tu vodim lud noćni život. Radim ovamo kao bartender, a kao side gig sam assassin. Pa recimo da imam konekcije sa tim krugovima ljudi. I ja ubijam low profile osobe.
