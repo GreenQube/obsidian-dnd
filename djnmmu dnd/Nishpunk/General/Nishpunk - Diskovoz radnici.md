@@ -20,7 +20,7 @@
 | ***PLACES / PEOPLE OF NOTE***       |                                                                                                                                                                      |
 | [[Mirno mesto u Plasidozu]]         | U Plasidozu. Ima jedan deo koji nije uklet do kog ne moze da se dodje. Postoje razlicite glasine i pretpostavke za sta se on koristi                                 |
 | [[Diskovoz]] (radite ovde)          | U Sutrodozu. Birtija/Stripclub (birtija je actual voz koji su prevukli iz stare zeleznice)                                                                           |
-| Mrakodoz                            | Kowlon city esque mesto, najgusce mesto u gradu, to je party/pleasure/services mesto                                                                                 |
+| [[Mrakodoz]]                        | Kowlon city esque mesto, najgusce mesto u gradu, to je party/pleasure/services mesto                                                                                 |
 | Borivoja Gojkovica                  | Back alley magic shops, nalazi se severno od Pufdoza.                                                                                                                |
 | Caci Casovnicar i Radionica Vremena | Prodaje sve i svakakve satove, on je jedina osoba za koju se zna da popravlja sat u Plavom Kraku koji se i zove Plavi krak. Radionica mu je slepljena za Plavi krak. |
 | Alcerajh Bolnica (Crv)              | Prethodna bolnica i insane asylum. Sad ljudi misle da je ukleta ili da su u njoj prethodni radnici ostali                                                            |
