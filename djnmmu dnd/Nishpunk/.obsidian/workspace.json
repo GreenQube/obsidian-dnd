@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "067e23a381b65966",
+            "id": "1847d9e73e589807",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Places of Note/Diskovoz.md",
+                "file": "Places/Places of Note/Borivoja Gojkovica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diskovoz"
-            }
-          },
-          {
-            "id": "b2243ce81c4371b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Places of Note/Mrakodoz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mrakodoz"
+              "title": "Borivoja Gojkovica"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e3d8c72e84dc14c7",
@@ -54,6 +39,20 @@
               },
               "icon": "lucide-file",
               "title": "Nishpunk - Diskovoz radnici"
+            }
+          },
+          {
+            "id": "f423067b5492b153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Places of Note/B.D.S.M..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B.D.S.M."
             }
           }
         ]
@@ -231,8 +230,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 583,
-        "y": 21,
+        "x": 625,
+        "y": 205,
         "width": 824,
         "height": 1000,
         "maximize": false,
@@ -240,12 +239,16 @@
       }
     ]
   },
-  "active": "b2243ce81c4371b8",
+  "active": "d031c652912f7546",
   "lastOpenFiles": [
+    "Places/Places of Note/Borivoja Gojkovica.md",
     "General/Nishpunk - Diskovoz radnici.md",
-    "Places/Places of Note/Mrakodoz.md",
-    "Assets/Maps for inspiration/mrakodoz vibes.png",
+    "Places/Places of Note/B.D.S.M..md",
     "Places/Places of Note/Diskovoz.md",
+    "Diskovoz.md",
+    "Places/Places of Note/Mrakodoz.md",
+    "Assets/Nishpunk_flipped.png",
+    "Assets/Maps for inspiration/mrakodoz vibes.png",
     "Assets/Maps for inspiration/diskovoz image.png",
     "Places/Places of Note/Mirno mesto u Plasidozu.md",
     "Sessions",
@@ -257,7 +260,6 @@
     "Places/Areas/Mrtvodoz.md",
     "Places/Areas/Otrovdoz.md",
     "Places/Areas/Bivstvodoz.md",
-    "Assets/Nishpunk_flipped.png",
     "Places/Areas/Plavi Krak.md",
     "Places/Areas/Odlodoz.md",
     "Assets/Maps for inspiration/odlodoz image.png",
@@ -284,8 +286,6 @@
     "Assets/maps/StationPlatformsCzepeku.jpg.crdownload",
     "Assets/maps/9b01923a9c1fed364901ca7a49ceab90.avif.crdownload",
     "Assets/maps/9b01923a9c1fed364901ca7a49ceab90.jpg.crdownload",
-    "Assets/maps/71f6f8650af0b1ce5c02cfec4659494c.jpg.crdownload",
-    "Player Characters/Nina.md",
-    "Player Characters/Medox.md"
+    "Assets/maps/71f6f8650af0b1ce5c02cfec4659494c.jpg.crdownload"
   ]
 }
