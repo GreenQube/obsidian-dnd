@@ -55,8 +55,6 @@ turtles
 
 ### Smaller factions
 
-Racoons,
-
 Cats,
 
 Dogs
