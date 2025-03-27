@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Chapter 2.md",
+                "file": "Story/Chapter 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2"
+              "title": "Chapter 3"
             }
           }
         ]
@@ -165,25 +165,22 @@
   },
   "active": "6fbba9e4d41e0a5a",
   "lastOpenFiles": [
-    "Story/Chapter 3.md",
-    "Story/Chapter 1.md",
-    "World Building Template.md",
-    "Story Chapters.md",
-    "Quick and Random Thoughts.md",
-    "Quests.md",
-    "Critteria.md",
     "Story/Chapter 2.md",
     "Story/Overall General Story.md",
+    "Story/Chapter 3.md",
+    "Story/Chapter 1.md",
     "World/Vulpera/Vulpera.md",
     "Story/Story Chapters.md",
     "World/G_nawentus/Badeira.md",
     "Player Characters/Party Cart.md",
     "Story",
     "Z'hir.md",
+    "Quick and Random Thoughts.md",
     "Player Characters/Pavle-Jonathan.md",
     "World/G_nawentus/Z’hir.md",
     "World/Critteria.md",
     "NPCS/Alira Patir.md",
+    "Quests.md",
     "World/G'nawentus/Badeira.md",
     "NPCS",
     "World/G'nawentus/Z’hir.md",
@@ -194,13 +191,16 @@
     "Untitled/Untitled",
     "Player Characters/Danica-Nerys.md",
     "Player Characters/Pera-Jaque.md",
+    "Player Characters/Tijana-Maya.md",
     "Assets",
     "Player Characters",
+    "World Building Template.md",
     "World/G'nawentus/Badeira.html",
     "Assets/images/c2.png",
     "Assets/images/c1.png",
     "World/Vulpera",
     "World/G'nawentus",
+    "Session Summaries/Session 0 Intro.md",
     "World",
     "Session Summaries"
   ]
