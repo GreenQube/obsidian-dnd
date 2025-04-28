@@ -13,6 +13,7 @@ _Nations that make up the empire_:
 - **_[[Vulpera]]_ (foxfolk, weaselfolk, racoonfolk, etc)***
 - **Locathia (sea fishfolk) + Nessia (land fishfolk)**
 - **Bemur** (lemursfolk + batfolk + others)
+- **Voseche (the grand capital with lots, boiling pot of culture)**
 
 # Vuplera
 

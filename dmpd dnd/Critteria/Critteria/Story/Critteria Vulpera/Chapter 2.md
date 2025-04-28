@@ -3,7 +3,7 @@
 - After defeating the bandits, the party can talk to Alira about things. The king was overthrown **three years ago**, but it was such a cover thing (might have a reason why  done that only a year ago the actual truth was found out, (not sure why)
 - Alira tells them about what she's been doing (infiltrating fanged moon, she was working for 3 years, outside of Vulpera to get in). Doesent know about what those "life flower" flowers do. 
 	- **Suspects** that's how they attacked the capitol
-- She wants to use the sign infused in the wood of the chariot to bypass entering areas of which are important to the gang in **Maresh**
+- She wants to use the sign infused in the wood of the chariot to bypass entering areas of which are important to the gang in **[[Maresh]]**
 	- They need a woodsmith in **Badeira** (border town of woodsmith and weaponsmith Beavers)
 - They go to **Sandala** to meet **Sena**, which is worried for Alira. She was a council woman appointed to the Roza family. She used to be quite fond of the Queen. Is friends with Alira. Fled with Alira when the coup happened. Four royal children were killed alongside the king. The queen dissapeared but was rumored to be in the city of **Maresh** (the party finds this out in **Badeira**). They say she's in hiding.
 - The party goes to **Badeira** and needs to cross the white bridge. You need a permit(??). 
