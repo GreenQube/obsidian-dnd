@@ -1,5 +1,0 @@
-
-- U [[Z’hir]]u su i upoznaju **Aliru Patir (lisica s ostrim usima koja je knights captain bila u Vulperi ali takodje i tajna cerka poslednjeg Kralja), alternate fighter eldrich knight** nakon sto je izbave iz govna s Eternal Moth-om (on predstavlja longevity, i kazu ljudi da kad prestane da peva da je to dolazak velike monarhije). Takodje saznaju za kriminalnu organizaciju **FANGED MOON** koja je pomogla da se funduje i osposobi ujak da ubije Kralja**.**
-- Nakon zavrsavanja pomaganja se upoznaju is Dowmom Sena (gavran zenski koji je bio masked figure koji je dao quest, kind of has a thing for Alira)
-- Nakon toga party s Alirom i Dowma dobije dodatan info za sve sto se desava i da treba da idu Maresh da skupe jos ljudi, kao i Dabra(onog smokljavog) u party
-- Na kraju idu za **Kratu**, gde imaju poslednju osobu a to je Bard character

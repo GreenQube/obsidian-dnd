@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "c6ac4228364c87e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "65f91e0a28778bce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c46eebdd3e87906",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Vulpera/Maresh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maresh"
+            }
+          },
+          {
+            "id": "aa9272b045dbabd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story/Critteria Vulpera/Chapter 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5912b0ad64e620c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1614c453eb2f4598",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d590233ce97a211f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f5a3e475dbf1e978",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d224c23b0fc4a601",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "09dbf9c33313a5b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a433f6837df3f2b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06826bf05f31ef2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "43b49e72ca1baf9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "584942f78079aa55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f063e90098e34015",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0c46eebdd3e87906",
+  "lastOpenFiles": [
+    "Story/Critteria Vulpera/Chapter 3.md",
+    "Story/Critteria Vulpera/Chapter 1.md",
+    "Assets/images/05xjhatjuvnb1.jpg",
+    "Assets/images/05xjhatjuvnb1.jpg.crdownload",
+    "World/Vulpera/Maresh.md",
+    "World/G_nawentus/Badeira.md",
+    "World/Sculum/Vu'cut.md",
+    "World/Sculum/Sculum.md",
+    "Assets/images/Zümrütrüyası_Priestess_sprite.png",
+    "Assets/images/Zümrütrüyası_Priestess_sprite.png.crdownload",
+    "Story/Critteria Online/Chapter 1 - Flaming Embers of Destruction.md",
+    "Player Characters/Jana - Mr. Hoppings.md",
+    "Player Characters/Christelle - Pantalaimon.md",
+    "Assets/images/burn_monster.jpg",
+    "Assets/images/burn_monster.jpg.crdownload",
+    "Assets/images/800px-Magma_Mephit_Model.png",
+    "Assets/images/800px-Magma_Mephit_Model.png.crdownload",
+    "Assets/images/hand-drawn-rectangle-frames-grungy-scribble-rectangle-frames-doodle-geometric-borders-pen-ink-empty-black-text-boxes-set-illustration-isolated-on-white-ba.jpg",
+    "Assets/images/hand-drawn-rectangle-frames-grungy-scribble-rectangle-frames-doodle-geometric-borders-pen-ink-empty-black-text-boxes-set-illustration-isolated-on-white-ba.jpg.crdownload",
+    "Story/Critteria Online/General Story.md",
+    "Assets/images/turtle.png",
+    "Assets/images/turtle.png.crdownload",
+    "Assets/images/pimbles.jpg.crdownload",
+    "Assets/images/pimbles.jpg",
+    "Assets/images/paul-pereda-merchantcrocodile.jpg",
+    "Assets/images/paul-pereda-merchantcrocodile.jpg.crdownload",
+    "Assets/images/1587730605.ethrk_sneek_merchant1.jpg",
+    "Assets/images/1587730605.ethrk_sneek_merchant1.jpg.crdownload",
+    "Player Characters/Felix - Spirou.md",
+    "Assets/images/vu_cut.png",
+    "Assets/images/vu_cut.json",
+    "Player Characters/Anton - Ovid.md",
+    "Player Characters/Bouchra - Mashak.md",
+    "Player Characters/Danica-Nerys.md",
+    "Player Characters/Old Player Characters.md",
+    "Story/Critteria Vulpera/Overall General Story.md",
+    "Story/Critteria Vulpera/Chapter 2.md",
+    "World Building Template.md",
+    "Quick and Random Thoughts.md",
+    "Quests.md",
+    "Critteria.md",
+    "World/Vulpera/Vulpera.md",
+    "World/Palak/Palak.md",
+    "World/G_nawentus/Z’hir.md",
+    "World/G_nawentus/G_nawentus.md"
+  ]
+}
