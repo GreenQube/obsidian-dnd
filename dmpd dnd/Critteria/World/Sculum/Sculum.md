@@ -36,3 +36,14 @@ What they look for in life is accepting change, shifting and evolving as animalf
 twin gods of spinning: 
 - one is love/reverly/spinning/coiling/good times and birth  - **Ikiz**
 - OTHER is war/hunt/stalking/spinning) - **Ler**
+
+### Luska
+Luskas Holidays :
+Around start of year is the first Shine (holiday), Then peak of summer is the summer solstice, about a month later is the SunSong(the week festival that started, so the day your first session was on is the monday, it lasts for a week until saturday when there is a solar eclipse) 
+Days of the SunSong and what happens on them: 
+**1** - The great noon fires of changing (the one where Mashak was in charge), and the evening Fire of Return 
+**2 - 5** (so tuesday to friday) - Through each of the great streets of Vu'cut a parade is shown throughout the day starting around when afternoon turns to evening (6pm) it is the 4 Serpent Parades and each feature a different vibe.
+**2** - The bulkiest most furrlike mascots sort of monotone greens going to flame reds are displayed are used and the music played is sort of a building up music 
+**3** - Shifting colors from reds to more white are used in the parade 
+**4** - White colors are used and everything is thin (representing the shedding/detachment) 
+**5** - White to fire red

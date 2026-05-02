@@ -104,3 +104,20 @@ Uptight, suppresses carefree impulses, edgy teenager that thinks no one outside 
 - maybe make it so that she can control the mushrooms or infection affecting the host?
 - find out that one of her siblings were reinfected and she wants to resque them?
 - make it a rescue type of backstory, where instead of wandering she gets that this is bad, and goes back to save her people?
+
+### The Letters
+**Letter 1** (to Doran Roza 25 years ago)
+Dragi D,
+od svih pisama koja sam ti slala, nisam imala srca da se pojavim pred tobom s ovakvim vestima. Ipak, ti si ti, a ja sam ja. Iako si poznat po svojim... darezljivim odnosima s drugima, ja ipak mislim da si mene voleo, da si mene video za mene, a ne za legendu koja prati mene i moj narod. Nisam neko ko bi ostao na jednom mestu duze od par nedelja, a zbog tebe sam htela celog zivota u kuci od kamena i mermera biti cak i kao zluzavka, ili prijateljica, cak i pored tvoje zene, dom ti je bio dovoljno veliki za nas 100 preko. Mada, na kraju, moj ponos mi ne dozvojlava, i sam znas da sam iznad svega toga. Nego, odugovlacim, ostalvjam ti ovo pismo ovde, kao i nju, moje blago, nase blago. Jedina stvar koja me je drzala na jednom mestu. Uzmi je, od moje i tvoje krvi je, moje oci i usi su njene, a tvoja dlaka i krzno. Ona je jaka i sija, moji mali kvarc, neka se zove po tome. Radi s tim sta zelis. 
+Neces me videti vise voljno, K.L.
+
+**Letter 2** (to Alira)
+Moji mali Kvarce,
+vratices se ovde, jednog dana i razumeti, volela sam te, i ostavila. Nisam rodjena na ovom svetu da sedim na jednom mestu, dok nisam tebe rodila, no protiv svoje cudi ne treba ici. Ne ocekujem od tebe oprostaj, niti sazaljenje, uradila sam najbolje sto sam mogla. Ostavljam ti ovu kucu, ovo mesto je nase, ne njegovo, godinama sam shvatila da je radio po svom, kolko god da je bio dobar, bio je samovoljan. Ima ceo narod da vodi ipak. Verujem da ste blizu, ili barem bliski. Kvarce, ostani jaka i izdrzljiva kao sto sam te rodila, a ako zelis ikad da me nadjes, mozes da ga samo pitas. Samo tebi, nikada njemu. To je jedino obecanje i pisan dogovor koji smo ustanovili on i ja.
+Videcu te u vetru, K.L.
+
+**Letter 3** (to Alira, at 18.)
+Moji  Kvarce,
+proslo je malo manje od 20 godina, znam da si punoletna. Videla sam te, jednom, na tvojoj koronaciji. Najmladja i najjaca, s 16 godina. Od mene sve dobro preuzela, pa i lepotu. Ova vrata koja sam pravila godinama mozda ce se i isplatiti napokon, ako ti treba ikad mesto da pobegnes, da se sakrijes, da se sacuvas, ovo je tvoj dom, kuca u kojoj si odrasla. Vidim da ti se otac bas skrasio, ne glupira se kao kad je bio mladji, ali je mnogo mudriji, i ovaj program Drugorodjenceta, napokon ovo mesto postaje mesto na kom se mogu okupljati zivotinje, gde jedni drugima veruju,  gde ih ne vara uvek sta ih vidi. Ali s tim, ne znam koliko mesta ima meni. Drago mi je sto sam te rodila. Jaka si.
+K.L.
+

@@ -4,35 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "65f91e0a28778bce",
+        "id": "7e95a14df99c6bb1",
         "type": "tabs",
         "children": [
           {
-            "id": "0c46eebdd3e87906",
+            "id": "70496cc61bdcdfab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Vulpera/Maresh.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Maresh"
-            }
-          },
-          {
-            "id": "aa9272b045dbabd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story/Critteria Vulpera/Chapter 3.md",
+                "file": "Story/Critteria Online/Chapter 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Chapter 3"
+            }
+          },
+          {
+            "id": "55099be0bfc2ece1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Sculum/Vu'cut.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vu'cut"
+            }
+          },
+          {
+            "id": "96b1a57543c7880c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Characters/Felix - Spirou.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Felix - Spirou"
             }
           }
         ]
@@ -92,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "09dbf9c33313a5b1",
@@ -171,6 +185,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,52 +194,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c46eebdd3e87906",
+  "active": "70496cc61bdcdfab",
   "lastOpenFiles": [
-    "Story/Critteria Vulpera/Chapter 3.md",
-    "Story/Critteria Vulpera/Chapter 1.md",
-    "Assets/images/05xjhatjuvnb1.jpg",
-    "Assets/images/05xjhatjuvnb1.jpg.crdownload",
-    "World/Vulpera/Maresh.md",
-    "World/G_nawentus/Badeira.md",
     "World/Sculum/Vu'cut.md",
-    "World/Sculum/Sculum.md",
-    "Assets/images/Zümrütrüyası_Priestess_sprite.png",
-    "Assets/images/Zümrütrüyası_Priestess_sprite.png.crdownload",
-    "Story/Critteria Online/Chapter 1 - Flaming Embers of Destruction.md",
-    "Player Characters/Jana - Mr. Hoppings.md",
+    "Story/Critteria Vulpera/Chapter 1.md",
     "Player Characters/Christelle - Pantalaimon.md",
-    "Assets/images/burn_monster.jpg",
-    "Assets/images/burn_monster.jpg.crdownload",
-    "Assets/images/800px-Magma_Mephit_Model.png",
-    "Assets/images/800px-Magma_Mephit_Model.png.crdownload",
-    "Assets/images/hand-drawn-rectangle-frames-grungy-scribble-rectangle-frames-doodle-geometric-borders-pen-ink-empty-black-text-boxes-set-illustration-isolated-on-white-ba.jpg",
-    "Assets/images/hand-drawn-rectangle-frames-grungy-scribble-rectangle-frames-doodle-geometric-borders-pen-ink-empty-black-text-boxes-set-illustration-isolated-on-white-ba.jpg.crdownload",
-    "Story/Critteria Online/General Story.md",
-    "Assets/images/turtle.png",
-    "Assets/images/turtle.png.crdownload",
-    "Assets/images/pimbles.jpg.crdownload",
-    "Assets/images/pimbles.jpg",
-    "Assets/images/paul-pereda-merchantcrocodile.jpg",
-    "Assets/images/paul-pereda-merchantcrocodile.jpg.crdownload",
-    "Assets/images/1587730605.ethrk_sneek_merchant1.jpg",
-    "Assets/images/1587730605.ethrk_sneek_merchant1.jpg.crdownload",
-    "Player Characters/Felix - Spirou.md",
-    "Assets/images/vu_cut.png",
-    "Assets/images/vu_cut.json",
-    "Player Characters/Anton - Ovid.md",
-    "Player Characters/Bouchra - Mashak.md",
-    "Player Characters/Danica-Nerys.md",
-    "Player Characters/Old Player Characters.md",
-    "Story/Critteria Vulpera/Overall General Story.md",
-    "Story/Critteria Vulpera/Chapter 2.md",
-    "World Building Template.md",
-    "Quick and Random Thoughts.md",
-    "Quests.md",
-    "Critteria.md",
     "World/Vulpera/Vulpera.md",
+    "Story/Critteria Online/Chapter 3.md",
+    "Assets/maps/court_feast_1.jpg",
+    "Assets/maps/Unconfirmed 538024.crdownload",
+    "Story/Critteria Online/Chapter 1 - Flaming Embers of Destruction.md",
+    "Assets/maps/s8rzfcbowc8b1.jpg",
+    "Assets/maps/Unconfirmed 17278.crdownload",
+    "Story/Critteria Online/Chapter 2 -.md",
     "World/Palak/Palak.md",
-    "World/G_nawentus/Z’hir.md",
-    "World/G_nawentus/G_nawentus.md"
+    "World/Sculum/Sculum.md",
+    "World/Vulpera/Krata.md",
+    "World/Vulpera/Maresh.md",
+    "World/Critteria.md",
+    "World/Place Template.md",
+    "World/Places, Lore and Culture.md",
+    "Critteria.md",
+    "Story/Critteria Online/General Story.md",
+    "Player Characters/Anton - Ovid.md",
+    "Assets/maps/GL_SolarCathedral_GroundFloor_Hellgate.jpg",
+    "Assets/maps/GL_SolarCathedral_TopFloor_Hellgate.jpg",
+    "Assets/images/original.png",
+    "Assets/images/Unconfirmed 930883.crdownload",
+    "Player Characters/Felix - Spirou.md",
+    "Player Characters/Bouchra - Mashak.md",
+    "Story/Critteria Vulpera/Chapter 2.md",
+    "Story/Critteria Vulpera/Chapter 4.md",
+    "Story/Critteria Vulpera/Overall General Story.md",
+    "Story/Critteria Vulpera/Chapter 3.md",
+    "Player Characters/Tijana-Maya.md",
+    "Player Characters/Pera-Jaque.md",
+    "Assets/images/5195.jpg",
+    "Assets/images/Unconfirmed 371501.crdownload",
+    "Assets/images/laicost.png",
+    "Assets/images/Unconfirmed 199084.crdownload",
+    "Assets/images/cbc89ede56bc39357766751f09fde6c4.jpg",
+    "Assets/images/Unconfirmed 553100.crdownload",
+    "Assets/images/Yuan-Ti_Abomination.png",
+    "Assets/images/Unconfirmed 253285.crdownload",
+    "Assets/maps/krata.jpg",
+    "Assets/maps/Unconfirmed 298964.crdownload",
+    "Assets/tokens/vagons/Unconfirmed 645488.crdownload",
+    "Assets/tokens/vagons/Unconfirmed 846294.crdownload"
   ]
 }

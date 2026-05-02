@@ -22,8 +22,6 @@
 	- [[Danica-Nerys]] goes into the secret groove of the protector (Dog) but finds the left over battlefield where they were killed by goons and also Urda.
 
 ### Act 2
-- 
-- 
 - The gang needs to infiltrate the fragrance quarter at night, simulating a shipment, having to go through the main door. They have to infiltrate a seemingly ordinary housing complex which is a warehouse. For this, I need an actual layout.
   ![[05xjhatjuvnb1.jpg]]
 - They enter at night, and are checked for weapons, things, checking in their cart. 

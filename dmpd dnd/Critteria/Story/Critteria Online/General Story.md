@@ -1,9 +1,9 @@
-## General
+# General
 **THE FANGED MOON USES WILDFIRE HERE**
 
-There is Lizard guy, Frog guy in the city, involved in city affairs, probably with law enforcement as well (maybe I make the party like the enforcement guy). Lizard guy is current leader, frog guy wants to take over because obviously power, money, etc.., uses **corrupt priest man** (Ill make it the leader) AND **The Fanged Moon** (I wanna involve them as his team that he uses to lock up the 3 missing people and help with gang activity) . **He uses the missing of train engineers to sway the higher ups in his favor**. Not enough so uses **priest man** to show he's not liked by the gods either. 
+There is Lizard guy, Frog guy in the city, involved in city affairs, probably with law enforcement as well (maybe I make the party like the enforcement guy). Lizard guy is current leader, frog guy wants to take over because obviously power, money, etc.. BUT DEEPER HE FEELS HE WAS BETRAYED BY LIZARD GUY, uses **corrupt priest man** (Ill make it the leader) AND **The Fanged Moon** (I wanna involve them as his team that he uses to lock up the 3 missing people and help with gang activity) . **He uses the missing of train engineers to sway the higher ups in his favor**. Not enough so uses **priest man** to show he's not liked by the gods either. 
 
-**MISSING PEOPLE**: Sun Goddess Priest who was open to the train, Train Engineer,  Detective of the Yellow Jackets
+**MISSING PEOPLE**: **Sun Goddess Priest** who was open to the train, **Train Engineer**,  **Detective of the Yellow Jackets who falls from the sky burning**
 
 **Lizard Guys Plan, Motives and whatnot**;
 - Find Missing 3 people used for the Hydra Train
@@ -13,11 +13,12 @@ There is Lizard guy, Frog guy in the city, involved in city affairs, probably wi
 - Use Fanged Moon Gang to carry out his different schemes
 - Use the people who worked on the **Train Building** and point at them to be heathens, showing that to the **Corrupt/Crazy Priest** who is against the idea of the train system.
 - Wants the physical and metaphysical to show that **Lizard Guy** is a bad leader and should be taken out, and wants to stage a coup.
-- Reason is power, money, etc.. but also **Frog Guy** wanted recognition for bringing in the people to work on the train
+- Reason is power, money, etc.. but also **Frog Guy** wanted recognition for bringing in the people to work on the train, helping Lizard Guy in the past as well as to take the "throne"
 - **HE PLANS TO BLAME THE CORRUPT PRIEST FOR IT ALL**
 
 **Things for the party to do:**
 - Find the 3 missing people connected to the **TRAIN BUILDING**
+- Beat a **mini-boss of the Fanged Moon**
 - Beat the **Corrupt Priest Man**
 - Beat the **Evil Frog Man**
 **Conclusion:**
@@ -28,10 +29,11 @@ There is Lizard guy, Frog guy in the city, involved in city affairs, probably wi
 ## Story Beats
 - Party meets, goes to the sun bazaar
 - Flaming corpse falls seemingly out of the sky (possibly add the fanged moon guys here). It sputters and attacks the market people/carts
-- Corpse is one of the missing priests (make a point to [[Bouchra - Mashak]])
-- Guards single out the people who help (**the party hopefully**). They meet the main yellow jacket man
-- They bring them infront the **LIZARD LEADER MAN**
-- They findout about the Hydra Train is being built and that people are missing
+- Corpse is  **the missing detective** (make a point to [[Bouchra - Mashak]])
+- Guards single out the people who help (**the party hopefully**). They meet the main yellow jacket man who is a Chameleon person
+- They bring them infront the **SNAKE LEADER MAN**
+- They findout about the Hydra Train is being built and that people are missing who were in charge of it (**engineer, priest, detective**). All of them are missing
+- The **SNAKE LEADER MAN** who makes them his group for finding the missing people. It seems insane 
 - 
 - 
 - 
@@ -40,5 +42,6 @@ There is Lizard guy, Frog guy in the city, involved in city affairs, probably wi
 - 
 - 
 - 
-- Fight with corrupt priest in the Sun Tower (he plans to kill the **Engineer** last since they kept him alive)
+- 
+- Fight with corrupt priest in the Sun Tower (he plans to kill the **Engineer** or **Other Preist** last since they kept him alive)
 - Party realizes that the **Frog Guy** is going for the main house. So they either find out early and are bariccading against him or they have to intercept the seize of the castle.
